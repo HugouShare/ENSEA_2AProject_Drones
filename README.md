@@ -1,4 +1,4 @@
-# 🚁 EnseaDronesOption
+# 🚁 EnseaDronesOption  
 
 ## 📌 Project Description
 This project involves developing a drone in **C**, equipped with an **STM32** board and multiple sensors. The goal is to implement **control, navigation, and communication** features to ensure stable and autonomous flight.
